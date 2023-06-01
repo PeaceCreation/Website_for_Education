@@ -13,7 +13,6 @@
     margin-right:auto;
     margin-left:auto;
 }
-
 body{
     font-family: 'Poppins', sans-serif;
 }
@@ -21,8 +20,6 @@ body{
     color:#fff;
 }
 /*  End Global Rules */
-
-
 /*  Start Navigation  */
 .header{
     background-color: #fdc82475;
@@ -89,7 +86,7 @@ body{
         display: block;
     }
     .nav .navbar .links li{
-        border-radius:4px;
+        border-radius:6px;
     }
 }
 .nav .navbar .links li{
@@ -177,7 +174,6 @@ body{
 .slider .contents .element button:hover{
     background-color:#474038cc; 
 }
-
 .slider .boxes{
     text-align:center;
     padding-top:10px;
@@ -219,7 +215,6 @@ body{
     padding-bottom: 9px;
     margin-right: 10px;
 }
-
 .slider .boxes .box p{
     text-align:center;
     padding-top:6px;
@@ -229,11 +224,7 @@ body{
     margin-left:5px;
     color:#f3ecec;
 }
-
 /* End Slider Section  */
-/*  End Navigation   */
-
-
 /*  Start Courses */
 .courses{
     padding-top:40px;
@@ -250,20 +241,12 @@ body{
     font-size:20px;
     font-weight:bold;
 }
-
 /* Start Course Card  */
 .card{
 border:2px solid #efefef;
 }
-
-.card .card-title{
-
-}
 .card .card-title img{
   margin:10px 0;
-}
-.card .card-body{
-
 }
 
 .card .card-body p{
@@ -271,19 +254,12 @@ border:2px solid #efefef;
     text-align: left;
     padding: 11px 0;
 }
-
-.card .card-footer{
-
-}
-
- .product .card .card-footer{
+.product .card .card-footer{
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: 6px 14px;
 }
-
-
 .product .card .card-footer .btn button{
     padding-top:10px;
     padding-bottom:10px;
@@ -342,7 +318,6 @@ border:2px solid #efefef;
     padding-bottom:20px;
     box-shadow: 0px 0px 0px 1.4px #00000057;
 }
-
 .course .cour .text{
   display: flex;
   padding-top:20px;
@@ -373,7 +348,6 @@ border:2px solid #efefef;
         font-size: 20px;
     }
 }
-
 .course .cour{
     padding-top:10px;
     padding-bottom:10px;
@@ -389,7 +363,6 @@ border:2px solid #efefef;
      margin-right: 10px;
      border-radius: 2px;
 }
-
 .course .cour .status{
     display:flex;
     justify-content: space-between;
@@ -623,7 +596,6 @@ border:2px solid #efefef;
         border-bottom: 1px solid #EFEFEF;
     } 
 }
-
 .product{
     text-align: center;
     display:grid;
@@ -637,8 +609,6 @@ border:2px solid #efefef;
     width:95%
 }
  /* End Release */
-
-
  /*  Start FeedBack */
  .feedback .feed{
     display:grid;
